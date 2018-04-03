@@ -1,2 +1,3 @@
 # Open-Call-Discussions
-A central place for participants in the open calls to ask questions
+
+As you can see, the OpenMinTeD project has a lot of different code repositories and even for those of us directly involved in developement it can be tricky to knwo where to raise issues. This repository is inteneded to act as a single point of contact for participancts in the open calls and any other interested external users. We will add useful documents/pointers to this repository to help with the open calls, and participants can raise issues (see the link above) against this repository to discuss any aspect of the platform and developing for it or integrating with it.
